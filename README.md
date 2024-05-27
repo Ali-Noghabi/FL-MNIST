@@ -2,6 +2,7 @@
 
 This project demonstrates the implementation of Federated Learning using the MNIST dataset in Google Colab. It simulates multiple clients (robots) that collaboratively train a global model without sharing their raw data.
 
+[![Jupyter Nootbook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ali-Noghabi/FL-MNIST/blob/main/Federated_Learning_with_MNIST_Dataset.ipynb)
 ## Table of Contents
 
 1. [Introduction](#introduction)
